@@ -16,10 +16,10 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * 服务发现
- *
- * @author huangyong
- * @author luxiaoxun
+ * 服务的发现
+ *  @Description
+ *  @Author zhaoshuo
+ *  @Date 2020-02-24 13:12
  */
 public class ServiceDiscovery {
 

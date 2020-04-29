@@ -15,10 +15,6 @@ import java.util.concurrent.TimeoutException;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 import java.util.concurrent.locks.ReentrantLock;
 
-/**
- * RPCFuture for async RPC call
- * Created by luxiaoxun on 2016-03-15.
- */
 
 /**
  * RpcFuture对象和Request对象是一一对应的

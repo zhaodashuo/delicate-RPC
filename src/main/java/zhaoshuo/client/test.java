@@ -24,7 +24,7 @@ public class test {
         AtomicInteger atomicInteger = new AtomicInteger(0);
         AtomicInteger atomicInteger1 = new AtomicInteger(0);
         int threadNum = 10;
-        final int requestNum = 100;
+        final int requestNum = 10000;
         Thread[] threads = new Thread[threadNum];
         CountDownLatch countDownLatch = new CountDownLatch(1000);
         long startTime = System.currentTimeMillis();

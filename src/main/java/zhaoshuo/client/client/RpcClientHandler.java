@@ -13,8 +13,11 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * Created by luxiaoxun on 2016-03-14.
+ *  @Description
+ *  @Author zhaoshuo
+ *  @Date 2020-02-24 13:12
  */
+
 //入站事件
 public class RpcClientHandler extends SimpleChannelInboundHandler<RpcResponse> {
     private static final Logger logger = LoggerFactory.getLogger(RpcClientHandler.class);

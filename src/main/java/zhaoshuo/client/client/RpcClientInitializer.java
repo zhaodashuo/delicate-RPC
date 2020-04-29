@@ -11,7 +11,9 @@ import zhaoshuo.common.protocol.RpcRequest;
 import zhaoshuo.common.protocol.RpcResponse;
 
 /**
- *
+ * @Description
+ * @Author zhaoshuo
+ * @Date 2020-02-24 13:12
  *
  */
 public class RpcClientInitializer extends ChannelInitializer<SocketChannel> {
